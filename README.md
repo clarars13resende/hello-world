@@ -1,2 +1,2 @@
-# hello-world
-Este repositório é para teste de conhecimento
+# sobre mim
+Me chamo Clara, tenho 18 anos e estou no primeiro semestre de ADS na FATEC SJC
